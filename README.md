@@ -3,7 +3,7 @@ MatrixManipulationInTexture in webgl shader
 
 A quick example on Matrix manipulation inside RGBA encoded textures in WEBGL
 
-this example shows how matrix can be encoded in RGBA channels and used for calculations in Fragment channel
+this example shows how matrix can be encoded in RGBA channels and used for calculations in Fragment shader
 
 the first Canvas is the input texture
 
